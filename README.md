@@ -42,6 +42,9 @@ MIT License
 *Autor*
 
 Guilherme Shinohara
+Kauã de Castro Alencar
+Lucas Ricci
+Leonardo Favaron
 
 *Contato*
 
