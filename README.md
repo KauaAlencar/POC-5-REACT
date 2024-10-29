@@ -48,7 +48,6 @@ Leonardo Favaron
 
 *Contato*
 
-[Seu E-mail/LinkedIn/GitHub]
+10439165@mackenzista.com.br
 
-Você gostaria de adicionar alguma informação específica no README?
 
